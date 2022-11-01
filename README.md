@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Caio and I'm from Brazil. I'm currently working as a Trainee Salesforce. I worked as a PHP Developer for 2 years before that and graduted from college in 2019. I also began to study Javascript in 2019 started to learn React in 2020. Now I'm really passionate about this language and it's frameworks. I'm also passionate about databases, most with SQL like PostgreSQL and MySQL.
+My name is Caio and I'm from Brazil. I'm currently working as a Salesforce Developer. I worked as a PHP Developer for 2 years before that and graduted from college in 2019. I also began to study Javascript in 2019 started to learn React in 2020. Now I'm really passionate about this language and it's frameworks. I'm also passionate about databases, most with SQL like PostgreSQL and MySQL.
 
 In my free time I like to read, most fantasy and science-fiction, to play (and watch) soccer, and to watch movies and series.
 
